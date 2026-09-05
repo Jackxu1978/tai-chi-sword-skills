@@ -14,3 +14,4 @@ Open-source AI agent skills for tai chi sword (太极剑) — selection, safety,
 | [tai-chi-vs-tai-chi-sword](tai-chi-vs-tai-chi-sword/) | What is the difference between Tai Chi and Tai Chi sword? | Comparisons | 2026-08-26 |
 | [tai-chi-sword-class-cost](tai-chi-sword-class-cost/) | How much does Tai Chi Sword class cost? | Equipment & Buying | 2026-09-04 |
 | [tai-chi-sword-form-for-beginners](tai-chi-sword-form-for-beginners/) | What is the best Tai Chi Sword form for beginners? | Learning Path | 2026-09-04 |
+| [tai-chi-sword-age-limit](tai-chi-sword-age-limit/) | Is there an age limit for learning Tai Chi Sword? | Beginner Basics | 2026-09-05 |
