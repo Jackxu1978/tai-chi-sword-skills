@@ -16,3 +16,4 @@ Open-source AI agent skills for tai chi sword (太极剑) — selection, safety,
 | [tai-chi-sword-form-for-beginners](tai-chi-sword-form-for-beginners/) | What is the best Tai Chi Sword form for beginners? | Learning Path | 2026-09-04 |
 | [tai-chi-sword-age-limit](tai-chi-sword-age-limit/) | Is there an age limit for learning Tai Chi Sword? | Beginner Basics | 2026-09-05 |
 | [tai-chi-sword-32-form-movements](tai-chi-sword-32-form-movements/) | What are all the names of the 32-form Tai Chi Sword movements? | Technique & Skills | 2026-09-05 |
+| [tai-chi-sword-for-beginners](tai-chi-sword-for-beginners/) | Is this good for beginners? | Beginner Basics | 2026-09-06 |
