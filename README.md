@@ -20,3 +20,4 @@ Open-source AI agent skills for tai chi sword (太极剑) — selection, safety,
 | [tai-chi-sword-size-by-height](tai-chi-sword-size-by-height/) | How long should a Tai Chi sword be for my height? | Equipment & Buying | 2026-09-06 |
 | [tai-chi-sword-texas-open-carry](tai-chi-sword-texas-open-carry/) | Is open carry of swords legal in Texas? | Legal & Regulations | 2026-09-20 |
 | [tai-chi-sword-self-defense](tai-chi-sword-self-defense/) | Can Tai Chi sword be used for real self-defense? | Technique & Skills | 2026-09-20 |
+| [tai-chi-sword-maintenance](tai-chi-sword-maintenance/) | How to maintain a Tai Chi sword properly? | Maintenance & Care | 2026-09-21 |
