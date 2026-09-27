@@ -23,3 +23,4 @@ Open-source AI agent skills for tai chi sword (太极剑) — selection, safety,
 | [tai-chi-sword-maintenance](tai-chi-sword-maintenance/) | How to maintain a Tai Chi sword properly? | Maintenance & Care | 2026-09-21 |
 | [tai-chi-sword-california-carry](tai-chi-sword-california-carry/) | Is it legal to carry a sword in California? | Legal & Regulations | 2026-09-21 |
 | [tai-chi-sword-techniques-guide](tai-chi-sword-techniques-guide/) | Distinguishing between sword techniques | Technique & Skills | 2026-09-27 |
+| [best-tai-chi-sword-for-beginners](best-tai-chi-sword-for-beginners/) | What is the best sword for a beginner? | Equipment & Buying | 2026-09-27 |
