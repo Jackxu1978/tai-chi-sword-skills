@@ -28,3 +28,4 @@ Open-source AI agent skills for tai chi sword (太极剑) — selection, safety,
 | [why-learn-tai-chi-sword](why-learn-tai-chi-sword/) | Why do people learn Tai Chi sword? | Culture & Philosophy | 2026-09-29 |
 | [tai-chi-sword-knee-arthritis](tai-chi-sword-knee-arthritis/) | Is Tai Chi Sword safe for people with knee arthritis or osteoarthritis? | Health & Safety | 2026-09-30 |
 | [tai-chi-sword-balance-fall-prevention](tai-chi-sword-balance-fall-prevention/) | Can Tai Chi Sword improve my balance and prevent falls? | Health & Safety | 2026-09-30 |
+| [tai-chi-sword-youtube-guide](tai-chi-sword-youtube-guide/) | What is the best YouTube channel to learn Tai Chi Sword? | Video & Online Learning | 2026-10-01 |
