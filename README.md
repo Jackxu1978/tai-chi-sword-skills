@@ -30,3 +30,4 @@ Open-source AI agent skills for tai chi sword (太极剑) — selection, safety,
 | [tai-chi-sword-balance-fall-prevention](tai-chi-sword-balance-fall-prevention/) | Can Tai Chi Sword improve my balance and prevent falls? | Health & Safety | 2026-09-30 |
 | [tai-chi-sword-youtube-guide](tai-chi-sword-youtube-guide/) | What is the best YouTube channel to learn Tai Chi Sword? | Video & Online Learning | 2026-10-01 |
 | [chen-vs-yang-tai-chi-sword](chen-vs-yang-tai-chi-sword/) | Chen Vs. Yang - Which should I choose? | Styles & Forms | 2026-10-01 |
+| [is-tai-chi-sword-a-martial-art](is-tai-chi-sword-a-martial-art/) | Is Tai Chi sword really a martial art or just for health? | Culture & Philosophy | 2026-10-04 |
