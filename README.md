@@ -62,3 +62,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-doctor-approval](tai-chi-sword-doctor-approval/) | Should I get my doctor's approval before starting Tai Chi Sword? | Health & Safety | 2026-10-04 |
 | [tai-chi-sword-move-names](tai-chi-sword-move-names/) | Why do different teachers use different names for the same move? | Culture & Philosophy | 2026-10-10 |
 | [tai-chi-sword-weight-guide](tai-chi-sword-weight-guide/) | How heavy is this? Is it too heavy for daily practice? | Equipment & Buying | 2026-10-10 |
+| [tai-chi-sword-blade-materials](tai-chi-sword-blade-materials/) | What is the blade made of? Is this stainless steel? | Equipment & Buying | 2026-10-11 |
