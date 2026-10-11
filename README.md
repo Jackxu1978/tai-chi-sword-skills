@@ -63,3 +63,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-move-names](tai-chi-sword-move-names/) | Why do different teachers use different names for the same move? | Culture & Philosophy | 2026-10-10 |
 | [tai-chi-sword-weight-guide](tai-chi-sword-weight-guide/) | How heavy is this? Is it too heavy for daily practice? | Equipment & Buying | 2026-10-10 |
 | [tai-chi-sword-blade-materials](tai-chi-sword-blade-materials/) | What is the blade made of? Is this stainless steel? | Equipment & Buying | 2026-10-11 |
+| [tai-chi-sword-blade-flexibility](tai-chi-sword-blade-flexibility/) | Is the blade flexible? How much does it bend? | Equipment & Buying | 2026-10-11 |
