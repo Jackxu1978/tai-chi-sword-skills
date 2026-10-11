@@ -61,3 +61,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [is-tai-chi-sword-a-martial-art](is-tai-chi-sword-a-martial-art/) | Is Tai Chi sword really a martial art or just for health? | Culture & Philosophy | 2026-10-04 |
 | [tai-chi-sword-doctor-approval](tai-chi-sword-doctor-approval/) | Should I get my doctor's approval before starting Tai Chi Sword? | Health & Safety | 2026-10-04 |
 | [tai-chi-sword-move-names](tai-chi-sword-move-names/) | Why do different teachers use different names for the same move? | Culture & Philosophy | 2026-10-11 |
+| [tai-chi-sword-health-benefits](tai-chi-sword-health-benefits/) | What are the health benefits of Tai Chi sword practice? | Health & Safety | 2026-10-11 |
