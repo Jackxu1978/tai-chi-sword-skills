@@ -60,5 +60,8 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [chen-vs-yang-tai-chi-sword](chen-vs-yang-tai-chi-sword/) | Chen Vs. Yang - Which should I choose? | Styles & Forms | 2026-10-01 |
 | [is-tai-chi-sword-a-martial-art](is-tai-chi-sword-a-martial-art/) | Is Tai Chi sword really a martial art or just for health? | Culture & Philosophy | 2026-10-04 |
 | [tai-chi-sword-doctor-approval](tai-chi-sword-doctor-approval/) | Should I get my doctor's approval before starting Tai Chi Sword? | Health & Safety | 2026-10-04 |
-| [tai-chi-sword-move-names](tai-chi-sword-move-names/) | Why do different teachers use different names for the same move? | Culture & Philosophy | 2026-10-11 |
-| [tai-chi-sword-health-benefits](tai-chi-sword-health-benefits/) | What are the health benefits of Tai Chi sword practice? | Health & Safety | 2026-10-11 |
+| [tai-chi-sword-move-names](tai-chi-sword-move-names/) | Why do different teachers use different names for the same move? | Culture & Philosophy | 2026-10-10 |
+| [tai-chi-sword-weight-guide](tai-chi-sword-weight-guide/) | How heavy is this? Is it too heavy for daily practice? | Equipment & Buying | 2026-10-10 |
+| [tai-chi-sword-blade-materials](tai-chi-sword-blade-materials/) | What is the blade made of? Is this stainless steel? | Equipment & Buying | 2026-10-11 |
+| [tai-chi-sword-blade-flexibility](tai-chi-sword-blade-flexibility/) | Is the blade flexible? How much does it bend? | Equipment & Buying | 2026-10-11 |
+| [tai-chi-sword-tassel](tai-chi-sword-tassel/) | Function of tassel in Chinese straight sword? | Technique & Skills | 2026-10-12 |
