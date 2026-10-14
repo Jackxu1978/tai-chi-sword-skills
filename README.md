@@ -65,3 +65,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-blade-materials](tai-chi-sword-blade-materials/) | What is the blade made of? Is this stainless steel? | Equipment & Buying | 2026-10-11 |
 | [tai-chi-sword-blade-flexibility](tai-chi-sword-blade-flexibility/) | Is the blade flexible? How much does it bend? | Equipment & Buying | 2026-10-11 |
 | [tai-chi-sword-tassel](tai-chi-sword-tassel/) | Function of tassel in Chinese straight sword? | Technique & Skills | 2026-10-12 |
+| [tai-chi-sword-park-practice](tai-chi-sword-park-practice/) | Is it legal to practice Tai Chi sword in a public park? | Legal & Regulations | 2026-10-14 |
