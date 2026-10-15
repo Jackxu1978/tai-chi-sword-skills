@@ -68,3 +68,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-park-practice](tai-chi-sword-park-practice/) | Is it legal to practice Tai Chi sword in a public park? | Legal & Regulations | 2026-10-14 |
 | [tai-chi-sword-for-children](tai-chi-sword-for-children/) | Can children learn Tai Chi sword safely? | Health & Safety | 2026-10-14 |
 | [tai-chi-sword-car-transport](tai-chi-sword-car-transport/) | How should I transport my sword in my car? | Legal & Regulations | 2026-10-15 |
+| [tai-chi-sword-indoor-practice](tai-chi-sword-indoor-practice/) | Can I practice Tai Chi Sword indoors? | Others | 2026-10-15 |
