@@ -72,3 +72,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-wooden-vs-metal](tai-chi-sword-wooden-vs-metal/) | Is a wooden sword or dull blade best for beginners? | Health & Safety | 2026-10-16 |
 | [tai-chi-sword-qi-extension](tai-chi-sword-qi-extension/) | Can the sword really extend my energy/Qi? | Culture & Philosophy | 2026-10-16 |
 | [tai-chi-sword-beginner-mistakes](tai-chi-sword-beginner-mistakes/) | Common beginner mistakes with Tai Chi sword? | Beginner Basics | 2026-10-17 |
+| [tai-chi-jian-vs-dao](tai-chi-jian-vs-dao/) | What is the difference between the Tai Chi sword (Jian) and the Tai Chi broadsword (Dao)? | Comparisons | 2026-10-17 |
