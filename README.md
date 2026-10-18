@@ -74,3 +74,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-beginner-mistakes](tai-chi-sword-beginner-mistakes/) | Common beginner mistakes with Tai Chi sword? | Beginner Basics | 2026-10-17 |
 | [tai-chi-jian-vs-dao](tai-chi-jian-vs-dao/) | What is the difference between the Tai Chi sword (Jian) and the Tai Chi broadsword (Dao)? | Comparisons | 2026-10-17 |
 | [tai-chi-sword-readiness](tai-chi-sword-readiness/) | How do I know when I am ready to learn sword? | Learning Path | 2026-10-18 |
+| [tai-chi-sword-back-pain](tai-chi-sword-back-pain/) | Can I practice Tai Chi sword with sciatica or back pain? | Health & Safety | 2026-10-18 |
