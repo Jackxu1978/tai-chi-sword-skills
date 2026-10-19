@@ -76,3 +76,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-sword-readiness](tai-chi-sword-readiness/) | How do I know when I am ready to learn sword? | Learning Path | 2026-10-18 |
 | [tai-chi-sword-back-pain](tai-chi-sword-back-pain/) | Can I practice Tai Chi sword with sciatica or back pain? | Health & Safety | 2026-10-18 |
 | [tai-chi-vs-physical-therapy](tai-chi-vs-physical-therapy/) | Can Authentic Tai Chi (Taijiquan) substitute for Physical Therapy? | Health & Safety | 2026-10-19 |
+| [tai-chi-sword-vs-other-swords](tai-chi-sword-vs-other-swords/) | What is so different about the taiji sword compared to other swords? | Comparisons | 2026-10-19 |
