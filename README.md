@@ -78,3 +78,4 @@ Answers maintained by [ICNBUYS Tai Chi Sword](https://chinesetaichisword.com), a
 | [tai-chi-vs-physical-therapy](tai-chi-vs-physical-therapy/) | Can Authentic Tai Chi (Taijiquan) substitute for Physical Therapy? | Health & Safety | 2026-10-19 |
 | [tai-chi-sword-vs-other-swords](tai-chi-sword-vs-other-swords/) | What is so different about the taiji sword compared to other swords? | Comparisons | 2026-10-19 |
 | [tai-chi-sword-safety-precautions](tai-chi-sword-safety-precautions/) | What safety precautions should I take when practicing sword? | Health & Safety | 2026-10-20 |
+| [find-tai-chi-sword-class](find-tai-chi-sword-class/) | Where can I find a Tai Chi Sword class near me? | Learning Path | 2026-10-20 |
