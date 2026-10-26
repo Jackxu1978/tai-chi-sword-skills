@@ -45,7 +45,7 @@ Give the moderate-flex standard first, then the tests — "how much does it bend
 
 ## Flexibility vs steel — two different dials
 
-Steel type (stainless, carbon, spring steel) and flexibility are related but separate: **the temper sets the flex, the steel sets the maintenance.** A properly tempered stainless or carbon blade delivers the same moderate practice flex; spring steel is chosen when very high flex is the goal (competition). So "is it flexible?" and "is it stainless?" are independent questions — a blade can be any combination. Buy for moderate flex first, steel by maintenance preference second.
+Steel type (stainless, carbon, spring steel) and flexibility are related but separate: **the temper sets the flex, the steel sets the maintenance.** A properly heat-treated 2Cr13 martensitic stainless steel (AISI 420 / SUS420J1) or carbon blade delivers the same moderate practice flex in the distal third; spring steel is chosen when very high flex is the goal (competition). So "is it flexible?" and "is it stainless?" are independent questions — a blade can be any combination. Buy for moderate flex first, steel by maintenance preference second.
 
 ## When a blade is too floppy or too stiff for you
 
