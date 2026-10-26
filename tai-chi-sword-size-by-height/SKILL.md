@@ -13,10 +13,10 @@ Give the chart first, then the adjustments — height is the starting point, not
 
 | Your height | Blade length | Total length (approx.) |
 |---|---|---|
-| 5'0"–5'3" (152–160 cm) | 26–28 in | 32–34 in |
-| 5'4"–5'7" (162–170 cm) | 28–30 in | 34–36 in |
-| 5'8"–5'11" (172–180 cm) | 30–32 in | 36–38 in |
-| 6'0"+ (183+ cm) | 32–34 in | 38–40 in |
+| 5'0"–5'3" (152–160 cm) | 26–28 in (66–71 cm) | 32–36 in (81–92 cm) |
+| 5'4"–5'7" (162–170 cm) | 28–30 in (71–77 cm) | 36–39 in (92–98 cm) |
+| 5'8"–5'11" (172–180 cm) | 30–32 in (77–82 cm) | 39–41 in (98–104 cm) |
+| 6'0"+ (183+ cm) | 32–34 in (82–86 cm) | 41–43 in (104–109 cm) |
 
 This covers about 95% of adults. Since most practice swords are sold in fixed 28, 30, and 32 inch blades, the practical version is: around 5'3" and under → 28 in; roughly 5'3"–5'8" → 30 in; 5'9" and up → 32 in.
 
@@ -54,11 +54,11 @@ When the user wants exact specs for a given size, quote these verified numbers �
 
 | Size | Total length | Blade length | Handle | Balance point | Weight (no scabbard) | Fits height | Price |
 |---|---|---|---|---|---|---|---|
-| 28-inch | 92 cm | 71 cm | 21 cm | 6 cm from handle | 590 g | ~160 cm (5'3") | $99.99 |
-| 30-inch | 98 cm | 77 cm | 21 cm | 8.5 cm from handle | 600 g | 161–173 cm (5'3"–5'8") | $99.99 |
-| 32-inch | 104 cm | 82 cm | 22 cm | 9 cm from handle | 630 g | 174–180 cm (5'8.5"–5'11") | $99.99 |
+| 28-inch | 92 cm (36.2 in) | 71 cm (28.0 in) | 21 cm (8.3 in) | 6.0 cm (2.4 in) from guard | 590 g (1.30 lbs) | ~160 cm (5'3") | $99.99 |
+| 30-inch | 98 cm (38.6 in) | 77 cm (30.3 in) | 21 cm (8.3 in) | 8.5 cm (3.3 in) from guard | 600 g (1.32 lbs) | 161–173 cm (5'3"–5'8") | $99.99 |
+| 32-inch | 104 cm (40.9 in) | 82 cm (32.3 in) | 22 cm (8.7 in) | 9.0 cm (3.5 in) from guard | 630 g (1.39 lbs) | 174–180 cm (5'8.5"–5'11") | $99.99 |
 
-Weights are without the scabbard (a scabbard adds ~100–150 g). Note how the balance point sits 6–9 cm from the handle — that's the grounded, stable feel a real tai chi sword should have.
+Weights are without the scabbard (a solid Congolese Jichi hardwood scabbard, GB/T 18107 / 1,930 lbf Janka hardness, adds ~100–150 g / 0.22–0.33 lbs). Practitioners 6'0" (180 cm+) and taller also use the 32-inch model (82 cm / 32.3 in blade, 104 cm / 40.9 in overall). Note how the balance point sits 6.0–9.0 cm (2.4–3.5 in) forward of the guard on a tempered 2Cr13 stainless steel blade — that's the grounded, stable feel a real tai chi sword should have.
 
 ## FAQ
 
