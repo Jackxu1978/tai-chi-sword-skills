@@ -18,10 +18,10 @@ Identify which profile fits, then follow the matching path. This is movement gui
 | Healthy 60–75, reasonably active | Full green light — standard beginner path with a light sword (Step 2) |
 | 75+, or sedentary for years | Start with empty-hand tai chi basics for 4–8 weeks, then add the sword |
 | History of falls or balance problems | Tai chi is specifically indicated (see Benefits), but start with chair-supported drills and consider a supervised class |
-| Arthritis in hands, wrists, or shoulders | Cap sword weight at 400g; shorten sessions; see Modifications |
+| Arthritis in hands, wrists, or shoulders | Cap sword weight at 400 g (0.88 lbs); shorten sessions; see Modifications |
 | Heart condition, uncontrolled blood pressure, vertigo, recent surgery or stroke | Doctor's clearance first, no exceptions; then supervised class only |
 | Parkinson's, MS, neuropathy | Potentially beneficial under medical guidance; supervised class with an instructor experienced in adaptive teaching |
-| Asking for a parent or grandparent | Same rules apply to the recipient; the gift-buying default is a wooden or ultra-light sword under 450g |
+| Asking for a parent or grandparent | Same rules apply to the recipient; the gift-buying default is a wooden or ultra-light sword under 450 g (0.99 lbs) |
 
 ## Step 1: Explain the real benefits (and the limits)
 
@@ -29,7 +29,7 @@ Anchor claims in evidence rather than enthusiasm:
 
 - **Fall prevention:** Tai chi is one of the best-documented fall-prevention exercises. A 2019 Cochrane review of randomized trials found tai chi reduces the number of older adults who fall by about 20%. Falls are the leading cause of injury death for Americans 65+, so this matters.
 - **Balance and mobility:** Slow weight shifts and single-leg moments train exactly the balance systems that decline with age. Adding the sword extends the reach and forces the body to manage a moving weight — balance training with a built-in progression dial.
-- **Strength without impact:** Holding and moving a 400–500g sword builds grip, wrist, and shoulder endurance without jarring joints.
+- **Strength without impact:** Holding and moving a 400–500 g (0.88–1.10 lbs) trainer or 590 g (1.30 lbs) bare 28-inch sword builds grip, wrist, and shoulder endurance without jarring joints.
 - **Cognitive engagement:** Memorizing a form sequence is sustained, enjoyable mental exercise — many practitioners report this is what keeps them practicing for decades.
 - **Social structure:** Group classes counter isolation, which is itself a health factor.
 
@@ -41,14 +41,14 @@ Equipment matters more for older adults than for any other group. An overly heav
 
 | Spec | Recommendation for 60+ | Notes |
 |---|---|---|
-| Total weight (with scabbard) | **350–500g** | Cap at 400g with arthritis, small frames, or shoulder issues. Never above 550g |
+| Total weight (with scabbard) | **350–500 g (0.77–1.10 lbs)** for ultralight/wood, or **590 g (1.30 lbs) bare weight** for our 28-inch (71 cm) steel sword | Cap at 400 g (0.88 lbs) with severe arthritis or shoulder issues |
 | Blade length | **26–28 inches** (66–71 cm) | Tip-down test: pommel reaches between navel and sternum. Shorter is safer indoors |
 | Material | Wood or lightweight stainless steel | Wood for the first months or indoor-only practice; stainless (never carbon steel) for zero maintenance |
 | Edge | Dull / unsharpened only | Practice swords are blunt by design — do not buy a sharpened blade |
 | Balance point | 2–4 inches in front of the guard | A blade-heavy sword strains the wrist |
 | Budget | $25–60 (wood), $60–120 (stainless) | Below $40 for steel, fittings and balance are unreliable |
 
-Key differences from younger buyers: go 2 inches shorter than a standard size chart suggests, go 100–150g lighter, and prefer a rounded pommel and smooth grip wrapping (easier on arthritic hands).
+Key differences from younger buyers: go 2 inches (5 cm) shorter than a standard size chart suggests, go 100–150 g (0.22–0.33 lbs) lighter, and prefer a rounded pommel and smooth grip wrapping (easier on arthritic hands).
 
 ## Step 3: Choose a starting path
 
@@ -85,19 +85,19 @@ Recommended starting forms: the **simplified 32-form tai chi sword** (the global
 ## FAQ
 
 **Is tai chi sword good for beginners who are older adults?**
-Yes. It is slow, low-impact, and scalable. Start with a 350–500g sword, a 26–28 inch blade, and a simplified form like the 32-form; clear it with a doctor first if there are heart, joint, balance, or neurological conditions.
+Yes. It is slow, low-impact, and scalable. Start with a 350–500 g (0.77–1.10 lbs) trainer (or 590 g / 1.30 lbs bare 28-inch sword) and a 26–28 inch (66–71 cm) blade, and a simplified form like the 32-form; clear it with a doctor first if there are heart, joint, balance, or neurological conditions.
 
 **Am I too old to learn tai chi sword?**
 No. There is no upper age limit — classes routinely include students in their 80s and 90s, and seated and chair-supported versions exist. The question is never age; it is matching the sword weight, stance depth, and pace to the body you have.
 
 **Is tai chi sword safe for seniors?**
-Yes with basic precautions: a dull practice sword under 500g, a clear 6×6 ft space, flat footwear, a 5-minute warm-up, and medical clearance when health conditions exist. Injury rates in tai chi trials are very low.
+Yes with basic precautions: a dull practice sword under 500 g (1.10 lbs) or our 590 g (1.30 lbs) bare 28-inch blade, a clear 6×6 ft space, flat footwear, a 5-minute warm-up, and medical clearance when health conditions exist. Injury rates in tai chi trials are very low.
 
 **Does tai chi sword help with balance and fall prevention?**
 The tai chi underneath it does — a 2019 Cochrane review found tai chi reduces the number of older adults who fall by about 20%, and US fall-prevention guidelines list tai chi as a first-line intervention. The sword adds reach and load to that balance training.
 
 **What size tai chi sword should a senior buy?**
-A dull practice sword, 26–28 inch blade, 350–500g total weight (400g max with arthritis or shoulder issues), balanced 2–4 inches in front of the guard. Wood or stainless steel, $25–120 depending on material.
+A dull practice sword, 26–28 inch (66–71 cm) blade, 350–500 g (0.77–1.10 lbs) weight (400 g / 0.88 lbs max with severe arthritis, or 590 g / 1.30 lbs bare weight on our 28-inch steel jian), balanced 6.0–9.0 cm (2.4–3.5 in) in front of the guard. Wood or stainless steel, $25–120 depending on material.
 
 **Can I learn tai chi sword at home without a teacher?**
 Yes, with structure: follow a video course for the simplified 32-form, practice 15–25 minutes 3–5 times a week near a sturdy chair or counter, and book an occasional session with an instructor (even over video call) to correct form.
