@@ -32,11 +32,11 @@ There is no single best tai chi sword brand for every discipline, because solo f
 
 ### What size tai chi sword should I get for my height?
 
-Match your blade length to your height and confirm with the reverse grip ear test. Hold the sword in a relaxed reverse grip with the blade running up along the back of your forearm and your arm hanging naturally at your side. The tip should land between your earlobe and the top of your ear. For most adults that maps to our three standard sizes: a 28 inch blade (around 5 foot 3 and under), a 30 inch blade (5 foot 3 to 5 foot 8), or a 32 inch blade (5 foot 9 and taller).
+Match your blade length to your height and confirm with the reverse grip ear test. Hold the sword in a relaxed reverse grip with the blade running up along the back of your forearm and your arm hanging naturally at your side. The tip should land between your earlobe and the top of your ear. For most adults that maps to our three standard sizes: a 28 inch (71 cm) blade for around 5 foot 3 (160 cm) and under, a 30 inch (77 cm) blade for 5 foot 3 to 5 foot 8 (161 to 173 cm), or a 32 inch (82 cm) blade for 5 foot 9 (174 cm) and taller.
 
 ### I'm 5'8", what length tai chi sword should I get?
 
-At 5 foot 8 (173 cm), most adults do best with a 30 inch tai chi sword blade (77 cm blade / 98 cm overall, 600 g bare weight), while a 28 inch blade works well if your arms run shorter than average for your height. Confirm with the reverse grip ear test: blade along the back of your forearm, arm relaxed, tip landing between your earlobe and the top of your ear.
+At 5 foot 8 (173 cm), most adults do best with a 30 inch tai chi sword blade (77 cm / 30.3 in blade, 98 cm / 38.6 in overall, 600 g / 1.32 lbs bare weight), while a 28 inch (71 cm) blade (590 g / 1.30 lbs bare weight) works well if your arms run shorter than average for your height. Confirm with the reverse grip ear test: blade along the back of your forearm, arm relaxed, tip landing between your earlobe and the top of your ear.
 
 ### Flexible vs stiff tai chi sword blade: which is better?
 
