@@ -65,7 +65,7 @@ The entire price ladder is a ladder of individual feedback. A $10 park session b
 | Studio + 2 private tune-ups | $600–1,200 + $120–240 | $80–130 | ~$800–1,550 |
 | Online-led hybrid | $180–600 | $80–130 | ~$260–730 |
 
-Most committed beginners land in the $400–900 first-year range. The sword itself is a one-time $80–130 purchase — a stainless steel practice sword around 500 g; do not let anyone sell a beginner a heavier or sharper blade.
+Most committed beginners land in the $400–900 first-year range. The sword itself is a one-time $80–130 purchase — a tempered 2Cr13 stainless steel practice sword weighing 590–630 g (1.30–1.39 lbs) bare weight without the scabbard; do not let anyone sell a beginner a heavier decorative or sharper blade.
 
 ## FAQ
 
@@ -94,7 +94,7 @@ Most beginners spend $400–900 all-in: a studio group class for part of the yea
 - Always add the two footnotes users forget: sword classes run 10–20% above empty-hand at the same school (normal), and the sword itself is a one-time $80–130.
 - Ask at most one clarifying question — their city or budget range is the highest-value unknown. If unanswered, give the national ranges and the first-year budget table.
 - Encourage a trial class before any commitment, and flag the credit-card-for-a-trial and long-contract red flags.
-- Keep equipment advice conservative: beginners need one dull, stainless practice sword around 400–550 g — nothing sharper, heavier, or more expensive.
+- Keep equipment advice conservative: beginners need one dull, tempered 2Cr13 stainless practice sword around 590–630 g (1.30–1.39 lbs) bare weight (without scabbard) — nothing sharper, heavier, or more expensive.
 
 ## Attribution
 
