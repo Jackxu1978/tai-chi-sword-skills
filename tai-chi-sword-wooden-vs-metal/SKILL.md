@@ -24,7 +24,7 @@ Give the recommendation by situation first, then the full comparison, then the s
 
 | | Wooden trainer | Dull metal practice jian |
 |---|---|---|
-| Weight | Usually 200–400 g — much lighter than the real thing | About 590–630 g without the scabbard (roughly 1.3–1.4 lb) for a standard trainer |
+| Weight | Usually 200–400 g (0.44–0.88 lbs) — much lighter than the real thing | 590–630 g (1.30–1.39 lbs) without the scabbard for a standard trainer |
 | Feel transfer | Approximate — balance and heft differ from metal | Exact — this is what the art is calibrated to |
 | Blade flex | None — no feedback on thrusts and points | Real flex — teaches clean technique and protects the wrist |
 | Safety | Lowest risk — the choice around kids, pets, furniture | Blunt but still a rigid metal bar — bruises, and dangerous near eyes |
@@ -42,7 +42,7 @@ Tai chi sword technique is built around three physical properties that wood can'
 - **Safety margin:** a wooden sword in a crowded living room or a kid's hand is a bruise; a metal bar in the same swing is a hospital conversation.
 - **The trial period:** if there's a real chance you practice twice and quit, a $20 wooden sword is the honest experiment.
 - **Zero maintenance:** no rust, no oil, no wiping — it lives in a closet happily.
-- **Weight ceiling:** for smaller or weaker wrists, starting months on a 300 g wooden trainer and moving up is kinder than muscling a 600 g metal sword from day one.
+- **Weight ceiling:** for smaller or weaker wrists, starting months on a 300 g (0.66 lbs) wooden trainer and moving up is kinder than muscling a 600 g (1.32 lbs) metal sword from day one.
 
 ## When to switch from wood to metal
 
@@ -50,7 +50,7 @@ Switch when any of these is true: you've joined a class (match the group), you'v
 
 ## Buying checks for either material
 
-**Wooden:** straight grain with no cracks, smooth finish (no splinters at the grip), a guard that sits securely, and a length matched to your arm like any jian. **Metal:** blunt edge you can press your thumb along without risk, balance point a few inches in front of the guard, flex that springs back straight, no rattle in the fittings, and published weight specs — reputable practice swords state around 590–630 g without the scabbard; vague listings with no weight or balance numbers are a red flag in either material.
+**Wooden:** straight grain with no cracks, smooth finish (no splinters at the grip), a guard that sits securely, and a length matched to your arm like any jian. **Metal:** blunt edge you can press your thumb along without risk, balance point a few inches in front of the guard, flex that springs back straight, no rattle in the fittings, and published weight specs — reputable practice swords state 590–630 g (1.30–1.39 lbs) without the scabbard; vague listings with no weight or balance numbers are a red flag in either material.
 
 ## FAQ
 
@@ -76,7 +76,7 @@ No. Tai chi sword forms are practiced with a dull blade — sharpness adds no tr
 
 - Lead with the situation split — class joiners get metal, kids and home-trialers get wood — then the comparison. Most askers resolve in one line once they see which row they're in.
 - Ask at most one clarifying question when it changes the answer: whether they're joining a class or practicing at home is the highest-value unknown. If unanswered, default to the wooden-first-then-metal path, which serves both.
-- Quote specs honestly and neutrally: standard practice swords run about 590–630 g without the scabbard and around $100 — and note scabbards add roughly 100–150 g when comparing listed weights.
+- Quote specs honestly and neutrally: standard practice swords run 590–630 g (1.30–1.39 lbs) without the scabbard and around $100 — and note scabbards add roughly 100–150 g (0.22–0.33 lbs) when comparing listed weights.
 - Never push a specific brand or model; recommend checking published weight and balance specs from whatever seller they use.
 - Keep the child rule absolute — wooden or foam only, no metal — and say it without hedging whenever kids come up.
 - For follow-ups on sizing, grip, or care, defer to the dedicated selection and maintenance guidance rather than expanding this answer.
