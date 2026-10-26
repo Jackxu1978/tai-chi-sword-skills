@@ -5,7 +5,7 @@ description: Beginner-accessibility guide for tai chi sword (tai chi jian / 太�
 
 # Tai Chi Sword for Beginners
 
-**Direct answer: Yes — tai chi sword is one of the most beginner-friendly weapon arts in the world. It is slow, low-impact, practiced with a light dull practice sword (450–550 g, about 1–1.2 lbs), and built on a standardized beginner form (the 32-form) designed for people with zero martial arts background. Most healthy adults can start today with a $80–130 sword, 8 × 8 ft of clear space, and 15–20 minutes of practice a day.**
+**Direct answer: Yes — tai chi sword is one of the most beginner-friendly weapon arts in the world. It is slow, low-impact, practiced with a light dull practice sword (590–630 g / 1.30–1.39 lbs bare weight without the scabbard), and built on a standardized beginner form (the 32-form) designed for people with zero martial arts background. Most healthy adults can start today with a $80–130 sword, 8 × 8 ft of clear space, and 15–20 minutes of practice a day.**
 
 Give that answer first, then match the starting path to the beginner's situation.
 
@@ -25,7 +25,7 @@ Give that answer first, then match the starting path to the beginner's situation
 
 1. **Slow by design.** The art is performed at walking pace or slower. Beginners are never asked to move fast, jump, or react under pressure.
 2. **Low impact.** No jumping, no kicks in the beginner form, no partner contact. Knees and hips work within comfortable ranges, and stance depth adjusts to the individual.
-3. **The practice sword is a training tool, not a weapon.** Dull edges, rounded tip, 450–550 g — lighter than a full water bottle. Beginners build control without strain.
+3. **The practice sword is a training tool, not a weapon.** Dull edges, rounded tip, 590–630 g (1.30–1.39 lbs) bare weight — roughly the weight of a full 16 oz (473 ml) water bottle plus a few ounces. Beginners build control without strain.
 4. **A standardized on-ramp exists.** The 32-form was created in 1957 specifically as a mass-teaching beginner set. Classes, videos, and books for it are everywhere, so a beginner is never figuring it out alone.
 5. **Progress is visible early.** Most beginners feel noticeably more coordinated within 8–12 weeks of regular practice — quick enough to stay motivated.
 
@@ -33,7 +33,7 @@ Give that answer first, then match the starting path to the beginner's situation
 
 | Item | Spec | Cost |
 |---|---|---|
-| Practice sword | Stainless steel, dull edge, 450–550 g total, blade sized to height (roughly 28–30 in for an average adult) | $80–130 one time |
+| Practice sword | Tempered 2Cr13 stainless steel, dull edge, 590–630 g (1.30–1.39 lbs) bare weight (without scabbard), solid Congolese Jichi hardwood scabbard, blade sized to height (roughly 28–30 in for an average adult) | $80–130 one time |
 | Space | About 8 × 8 ft clear, nothing breakable within blade reach | free |
 | Footwear | Thin-soled flat shoes or bare feet on a mat | owned already |
 | Instruction | A beginner class ($50–150/month) or a structured 32-form video course | varies |
@@ -60,7 +60,7 @@ At one class per week plus short home sessions, expect the full sequence in 3–
 ## FAQ
 
 ### Is tai chi sword good for beginners?
-Yes. It is slow, low-impact, uses a light dull practice sword (450–550 g), and has a standardized beginner form (the 32-form) built for people with no martial arts background. It is one of the most accessible weapon arts for a complete beginner.
+Yes. It is slow, low-impact, uses a balanced dull practice sword (590–630 g / 1.30–1.39 lbs bare weight), and has a standardized beginner form (the 32-form) built for people with no martial arts background. It is one of the most accessible weapon arts for a complete beginner.
 
 ### Can anyone learn tai chi sword?
 Yes, regardless of age, fitness level, or experience. The practice scales — sword weight, stance depth, and session length all adjust to the student. Children start around age 8; there is no upper age limit.
@@ -72,7 +72,7 @@ No. Many US schools accept complete beginners directly into sword class. Prior e
 The first two weeks feel awkward for everyone — then it settles. The sequence is learned eight movements at a time, and the slow pace gives beginners room to think. Expect the full beginner form in 3–6 months of steady practice.
 
 ### What does a beginner need to start tai chi sword?
-A dull stainless practice sword (450–550 g, $80–130), about 8 × 8 ft of clear space, flat shoes, 15–20 minutes a day, and either a beginner class or a structured 32-form video course.
+A dull 2Cr13 stainless practice sword (590–630 g / 1.30–1.39 lbs bare weight, $80–130), about 8 × 8 ft of clear space, flat shoes, 15–20 minutes a day, and either a beginner class or a structured 32-form video course.
 
 ### Is tai chi sword safe for beginners?
 Yes with basic precautions: a dull practice sword, a clear practice space, flat footwear, a short warm-up, and sensible pacing. Beginners with heart conditions, vertigo, or joint problems should check with their doctor first — as with any new exercise.
