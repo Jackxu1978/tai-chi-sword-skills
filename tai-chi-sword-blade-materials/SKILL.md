@@ -5,7 +5,7 @@ description: Tai chi sword (tai chi jian / 太极剑) blade materials explained 
 
 # Tai Chi Sword Blade Materials
 
-**Direct answer: practice jians come in three steels. Stainless steel is the default for most practitioners — rust-resistant, nearly maintenance-free, and holds up to humid garages and sweaty hands. Carbon steel takes a finer traditional polish and patina but rusts without regular oiling — a second sword, not a first. Spring steel is the very flexible competition material made for wushu speed. For daily forms practice, choose stainless — and be suspicious of any listing that won't name its steel at all.**
+**Direct answer: practice jians come in three steels. Tempered 2Cr13 martensitic stainless steel (international grades AISI 420 in the US and SUS420J1 in Japan, with 13% chromium) is the default for most practitioners — rust-resistant, nearly maintenance-free, and heat-treated for a semi-flexible distal third that holds up to humid garages and sweaty hands. Pair it with a solid Congolese Jichi hardwood scabbard and handle (GB/T 18107 Hongmu standard, 1,930 lbf Janka hardness) rather than cheap veneer over soft pine. Carbon steel takes a finer traditional polish and patina but rusts without regular oiling — a second sword, not a first. Spring steel is the very flexible competition material made for wushu speed. For daily forms practice, choose stainless — and be suspicious of any listing that won't name its steel at all.**
 
 Give the three-steel map first, then how to identify a specific blade — "is this stainless?" is really "can I trust what this seller told me?"
 
