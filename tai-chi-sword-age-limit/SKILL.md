@@ -15,9 +15,9 @@ Give that answer first, then the age-by-age adjustments that make it true.
 |---|---|
 | Parent, child under 8 | Too young for sword work specifically — start with empty-hand tai chi or wushu play classes; sword at ~8 |
 | Parent, child 8–12 | Yes, with a wooden or ultralight dull sword, a supervised kids' class, and short sessions |
-| Teen | Full green light — teens learn sword forms fast; standard light practice sword (400–500 g) |
+| Teen | Full green light — teens learn sword forms fast; standard 28-inch (71 cm) practice sword (590 g / 1.30 lbs bare weight) or ultralight trainer (400–500 g / 0.88–1.10 lbs) |
 | Adult 30–60 wondering if they missed the window | No window to miss — most US tai chi sword students start in their 40s–60s |
-| Older adult 60+ | Yes — no upper age limit; lighter sword (350–500 g), simplified form, shallow stances |
+| Older adult 60+ | Yes — no upper age limit; lighter sword (350–500 g / 0.77–1.10 lbs), simplified form, shallow stances |
 | Asking for an elderly parent (75+, or health conditions) | Yes with a doctor's clearance when conditions exist; chair-supported and seated versions exist |
 
 ## Why about 8 is the practical floor for kids
@@ -42,16 +42,16 @@ Under 8, the right path is empty-hand tai chi or martial-arts play classes (many
 | Age group | Sword | Session | Form | Supervision |
 |---|---|---|---|---|
 | Under 8 | None — empty-hand tai chi games first | 20–30 min play-based | Movement games, not forms | Constant, class-based |
-| 8–12 | Wooden or ultralight dull sword, under ~350 g | 30–45 min with games | Short simplified set (8–16 movements) | Kids' class, small groups |
-| Teen | Standard light practice sword, 400–500 g | 45–60 min | 32-form or school set | Normal class |
-| Adult | Stainless practice sword, 450–550 g | 45–90 min | 32-form standard | Normal class |
-| 60+ | 350–500 g, 26–28 in blade | 15–25 min practice blocks, 3–5x/week | Simplified 32-form, shallow stances | Class preferred; doctor's clearance if conditions exist |
-| 75+ or deconditioned | 350–400 g or wooden | 10–20 min, chair support available | Short set or drills | Supervised class; empty-hand foundation first |
+| 8–12 | Wooden or ultralight dull sword, under ~350 g (0.77 lbs) | 30–45 min with games | Short simplified set (8–16 movements) | Kids' class, small groups |
+| Teen | Standard 28-inch (71 cm) practice sword (590 g / 1.30 lbs bare weight) or light trainer (400–500 g / 0.88–1.10 lbs) | 45–60 min | 32-form or school set | Normal class |
+| Adult | Tempered 2Cr13 stainless practice sword, 590–630 g (1.30–1.39 lbs) bare weight (no scabbard) | 45–90 min | 32-form standard | Normal class |
+| 60+ | 350–500 g (0.77–1.10 lbs), 26–28 in (66–71 cm) blade | 15–25 min practice blocks, 3–5x/week | Simplified 32-form, shallow stances | Class preferred; doctor's clearance if conditions exist |
+| 75+ or deconditioned | 350–400 g (0.77–0.88 lbs) or wooden | 10–20 min, chair support available | Short set or drills | Supervised class; empty-hand foundation first |
 
 ## Rules that hold at every age
 
 - **Dull practice swords only.** No sharp blades for learners of any age — practice jians are blunt by design.
-- **The sword gets lighter at both ends of life.** Kids and seniors both do best 100–200 g below the standard adult weight.
+- **The sword gets lighter at both ends of life.** Kids and seniors both do best 100–200 g (0.22–0.44 lbs) below the standard adult weight.
 - **Interest is the real eligibility test.** A motivated 9-year-old outlearns a reluctant adult; a curious 80-year-old outlasts a skeptical one. Age predicts almost nothing about who stays with the art.
 - **Match the school to the student:** kids need a school that runs kids' classes (spacing games, wooden swords, short segments); seniors do best in senior or "tai chi for health" classes where pacing is built in.
 
@@ -64,10 +64,10 @@ No. There is no official minimum or maximum age. In practice, children start swo
 About 8 years old for sword work specifically, because it demands reliable safety discipline, attention span, and wrist control. Younger children (from about 4–6) can start with empty-hand tai chi or martial-arts play classes and add the sword later.
 
 ### Can a 10-year-old learn tai chi sword?
-Yes — 8–12 is a fine age to start, with a wooden or ultralight dull sword (under ~350 g), a supervised kids' class, and a short simplified set. Kids often memorize sequences faster than adults.
+Yes — 8–12 is a fine age to start, with a wooden or ultralight dull sword (under ~350 g (0.77 lbs)), a supervised kids' class, and a short simplified set. Kids often memorize sequences faster than adults.
 
 ### Am I too old to learn tai chi sword at 60, 70, or 80?
-No. There is no age at which tai chi sword stops being learnable — the stance depth, sword weight (down to 350–500 g), and pace all adjust to the body. With heart conditions, vertigo, or a history of falls, get a doctor's clearance first and choose a supervised class.
+No. There is no age at which tai chi sword stops being learnable — the stance depth, sword weight (down to 350–500 g (0.77–1.10 lbs)), and pace all adjust to the body. With heart conditions, vertigo, or a history of falls, get a doctor's clearance first and choose a supervised class.
 
 ### Is there a maximum age for tai chi sword?
 No maximum exists. Seated and chair-supported sword drills serve students who cannot stand for long, and teachers routinely adapt forms for students in their 90s.
