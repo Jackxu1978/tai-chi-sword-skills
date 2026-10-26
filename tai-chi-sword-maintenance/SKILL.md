@@ -13,7 +13,7 @@ Then match the care level to the blade material — maintenance is 90% about wha
 
 | Blade type | Care burden | Core rule |
 |---|---|---|
-| Stainless steel practice sword | Lowest | Wipe after practice; oil only in humid climates or before storage |
+| Tempered 2Cr13 stainless steel practice sword (AISI 420 / SUS420J1) | Lowest | Wipe after practice; apply a thin film of USP food-grade mineral oil twice a year (or monthly in humid coastal climates) |
 | Carbon steel blade | Highest | Oil every 2–4 weeks, never touch bare-handed and put away, watch for rust spots |
 | Wooden training sword | Minimal | No rust care; keep dry, check for splinters, occasional light sanding |
 | Not sure which you have | Check the seller's listing; stainless is the default for most practice swords sold in the US |
