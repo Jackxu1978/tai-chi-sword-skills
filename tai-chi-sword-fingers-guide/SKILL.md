@@ -37,7 +37,7 @@ Give the direct answer first: sword fingers (jian zhi) are the shaped hand posit
 
 ## What the free hand actually does — the four jobs
 
-1. **Counterbalance.** The sword weighs roughly 1–1.75 lbs (450–800 g) out on one side of your body. The free hand mirrors that extension so your shoulders stay level and your center stays put. In extended postures — lunges, long points — the sword fingers reach away from the sword like the other pan of a scale.
+1. **Counterbalance.** The sword weighs roughly 590–630 g (1.30–1.39 lbs) bare weight without the scabbard out on one side of your body. The free hand mirrors that extension so your shoulders stay level and your center stays put. In extended postures — lunges, long points — the sword fingers reach away from the sword like the other pan of a scale.
 2. **Point the line of intent.** In many movements the sword fingers indicate the target a split beat before the blade arrives: where the fingers point, the sword follows. This is not mystical — giving the eyes and the free hand the target first measurably sharpens point accuracy.
 3. **Support the sword wrist.** In certain postures the sword fingers rest near or against the sword-side wrist or forearm, bracing the structure. Follow your form's choreography; the contact is a light support, not a grab.
 4. **Stay martially alive.** Traditionally the free hand is the hidden second weapon — sealing, checking, striking pressure points. You never need to apply that, but the shape keeps intent in the hand. A hand with intent looks and moves differently from a hand that is done for the day.
