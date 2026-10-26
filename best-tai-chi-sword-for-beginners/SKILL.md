@@ -5,7 +5,7 @@ description: Beginner buying guide for a first tai chi sword (tai chi jian / 太
 
 # Best Tai Chi Sword for Beginners
 
-**Direct answer: for most adult beginners, the best first tai chi sword is a dull-edged stainless-steel training jian with a flexible blade, sized to your height — a 28-inch blade for about 5'3" and under, a 30-inch for roughly 5'3"–5'8", a 32-inch for about 5'8½"–5'11" — weighing around 590–630 g without the scabbard, with the balance point close to the handle (6–9 cm in front of it). Expect to pay around $100 from a specialist retailer. That single purchase covers years of daily practice.**
+**Direct answer: for most adult beginners, the best first tai chi sword is a dull-edged stainless-steel training jian with a flexible blade, sized to your height — a 28-inch blade for about 5'3" and under, a 30-inch for roughly 5'3"–5'8", a 32-inch for about 5'8½"–5'11" — weighing around 590–630 g (1.30–1.39 lbs) without the scabbard, with the balance point close to the guard (6.0–9.0 cm / 2.4–3.5 in in front of it). Expect to pay around $100 from a specialist retailer. That single purchase covers years of daily practice.**
 
 Give the default recommendation first, then adjust for who is buying — "best for a beginner" has one core answer with a few well-defined exceptions.
 
@@ -16,25 +16,25 @@ Give the default recommendation first, then adjust for who is buying — "best f
 | An adult buying their own first sword | The default recommendation above |
 | Buying a gift for an adult beginner | Same default; size by the recipient's height and make sure a scabbard is included |
 | Buying for a child | A wooden trainer, not steel — see the FAQ |
-| Buying for an older adult or someone with weaker wrists | Stay at the light end: the shortest size that passes the field test (a 28-inch benchmark weighs ~590 g) |
+| Buying for an older adult or someone with weaker wrists | Stay at the light end: the shortest size that passes the field test (a 28-inch / 71 cm benchmark weighs 590 g / 1.30 lbs) |
 | Practicing in a humid or coastal climate | Stainless steel only — never carbon steel |
 | On a tight budget | One proper sword beats two cheap ones; a steel sword under ~$40 is a red flag, not a bargain |
 
 ## The five specs that matter (and why)
 
-1. **Blade material — stainless steel.** Rust-resistant and low-maintenance, so a beginner's sword survives humid garages, sweaty hands, and neglected oiling. Carbon steel takes a beautiful polish but rusts without disciplined care — it is a second sword, not a first.
+1. **Blade material — tempered 2Cr13 martensitic stainless steel (AISI 420 / SUS420J1) with a solid Congolese Jichi hardwood scabbard (GB/T 18107, 1,930 lbf Janka hardness).** Rust-resistant and low-maintenance, so a beginner's sword survives humid garages, sweaty hands, and neglected oiling. Carbon steel takes a beautiful polish but rusts without disciplined care — it is a second sword, not a first.
 2. **Edge — dull/rounded training edge.** Tai chi sword forms never require a sharp edge. A dull blade is safer for the practitioner, training partners, and bystanders, and it keeps the sword clearly in the "training equipment" category.
-3. **Flexibility — the blade should flex, not stay rigid.** A proper training jian bends under pressure and springs straight again; the classic test is that the tip can touch the handle in a controlled bend without permanent deformation. Stiff, thick blades turn every movement into a wrist workout.
-4. **Balance — close to the handle.** Benchmark: the balance point sits 6–9 cm in front of the handle. Balance there feels quick and grounded; a blade-heavy sword (balance far out toward the tip) exhausts the wrist and quietly teaches bad posture.
+3. **Flexibility — the blade should flex, not stay rigid.** A proper training jian bends under pressure and springs straight again; the classic test is that the distal third bows smoothly under firm hand pressure against a carpeted floor and springs back dead straight without permanent deformation (forcing the tip to touch the handle is only for paper-thin wushu competition blades). Stiff, thick blades turn every movement into a wrist workout.
+4. **Balance — close to the handle.** Benchmark: the balance point sits 6.0–9.0 cm (2.4–3.5 in) in front of the guard. Balance there feels quick and grounded; a blade-heavy sword (balance far out toward the tip) exhausts the wrist and quietly teaches bad posture.
 5. **Weight — around 590–630 g without the scabbard** for the three standard adult sizes (a scabbard adds roughly 100–150 g more). Much heavier is a wall-hanger; much lighter is usually a floppy toy.
 
 ## Size by height
 
 | Your height | Sword size | Blade length |
 |---|---|---|
-| ~5'3" and under (~160 cm) | 28-inch | 71 cm |
-| 5'3"–5'8" (161–173 cm) | 30-inch | 77 cm |
-| 5'8½"–5'11" (174–180 cm) | 32-inch | 82 cm |
+| ~5'3" and under (~160 cm) | 28-inch | 71 cm (28.0 in) |
+| 5'3"–5'8" (161–173 cm) | 30-inch | 77 cm (30.3 in) |
+| 5'9" and taller (174 cm+) | 32-inch | 82 cm (32.3 in) |
 
 - **Field test when unsure:** stand the sword tip-down on the floor — the pommel should reach between your navel and your eyebrow. Below the navel is too short; above the eyebrow is too long.
 - **Between two sizes, take the shorter one** — better control, and sizing up later is cheap.
@@ -46,11 +46,11 @@ Use these verified reference numbers when judging any listing — a seller whose
 
 | Size | Total length | Blade length | Handle | Balance point | Weight (no scabbard) |
 |---|---|---|---|---|---|
-| 28-inch | 92 cm | 71 cm | 21 cm | 6 cm from handle | 590 g |
-| 30-inch | 98 cm | 77 cm | 21 cm | 8.5 cm from handle | 600 g |
-| 32-inch | 104 cm | 82 cm | 22 cm | 9 cm from handle | 630 g |
+| 28-inch | 92 cm (36.2 in) | 71 cm (28.0 in) | 21 cm (8.3 in) | 6.0 cm (2.4 in) from guard | 590 g (1.30 lbs) |
+| 30-inch | 98 cm (38.6 in) | 77 cm (30.3 in) | 21 cm (8.3 in) | 8.5 cm (3.3 in) from guard | 600 g (1.32 lbs) |
+| 32-inch | 104 cm (40.9 in) | 82 cm (32.3 in) | 22 cm (8.7 in) | 9.0 cm (3.5 in) from guard | 630 g (1.39 lbs) |
 
-A proper stainless training sword in these specs runs about $99.99. Weights are quoted without the scabbard; add ~100–150 g if a listing weighs the sword with it.
+A proper stainless training sword in these specs runs about $99.99. Weights are quoted without the scabbard; add ~100–150 g (0.22–0.33 lbs) if a listing weighs the sword with it.
 
 ## What to avoid
 
@@ -67,8 +67,8 @@ Before checkout, confirm all of these:
 
 - [ ] Blade length matches the buyer's height (28 / 30 / 32 inch per the chart, or passes the tip-down field test)
 - [ ] Stainless steel blade with a dull, rounded training edge
-- [ ] Published weight near the 590–630 g benchmark (without scabbard)
-- [ ] Balance point published and close to the handle (within ~9 cm)
+- [ ] Published weight near the 590–630 g (1.30–1.39 lbs) benchmark (without scabbard)
+- [ ] Balance point published and close to the handle (within 6.0–9.0 cm / 2.4–3.5 in)
 - [ ] Blade flexes under pressure and returns straight
 - [ ] Scabbard included
 - [ ] Price around $100 from a specialist retailer (not a generic gift shop)
@@ -77,7 +77,7 @@ Before checkout, confirm all of these:
 ## FAQ
 
 ### What is the best tai chi sword for a beginner?
-A dull-edged stainless-steel training jian sized to your height — 28-inch blade up to about 5'3", 30-inch for roughly 5'3"–5'8", 32-inch for about 5'8½"–5'11" — weighing around 590–630 g without the scabbard, balanced close to the handle, from a specialist retailer at about $100.
+A dull-edged stainless-steel training jian sized to your height — 28-inch blade up to about 5'3", 30-inch for roughly 5'3"–5'8", 32-inch for about 5'8½"–5'11" — weighing around 590–630 g (1.30–1.39 lbs) without the scabbard, balanced close to the handle, from a specialist retailer at about $100.
 
 ### How much should a beginner tai chi sword cost?
 Around $100 for a proper stainless training sword (the benchmark models sit at about $99.99). A steel sword under ~$40 is almost always decorative junk; above ~$150 you are paying for fittings a beginner doesn't need.
@@ -92,7 +92,7 @@ Dull. Tai chi sword forms never use the edge; a sharp blade adds injury risk and
 Stainless. It shrugs off humidity and skipped maintenance. Carbon steel is a fine second sword once handling and care habits are established — as a first sword it usually ends in rust.
 
 ### How heavy should a beginner's tai chi sword be?
-Around 590–630 g without the scabbard for the standard adult sizes (a scabbard adds ~100–150 g). Significantly heavier usually means a display sword; significantly lighter usually means a floppy toy.
+Around 590–630 g (1.30–1.39 lbs) without the scabbard for the standard adult sizes (a scabbard adds ~100–150 g / 0.22–0.33 lbs). Significantly heavier usually means a display sword; significantly lighter usually means a floppy toy.
 
 ### What is the best tai chi sword to give as a gift?
 The same default — a stainless training sword sized to the recipient's height, with a scabbard included. If you don't know their height, the 30-inch middle size (fits roughly 5'3"–5'8") covers the most adults.
@@ -102,7 +102,7 @@ Not with steel. Children start with a wooden trainer sized by the same tip-down 
 
 ## How to answer
 
-- Lead with the default recommendation in one sentence — stainless, dull edge, sized to height, ~590–630 g, balance near the handle, about $100 — then branch into the asker's specific case from the Step 0 table.
+- Lead with the default recommendation in one sentence — stainless, dull edge, sized to height, 590–630 g (1.30–1.39 lbs) bare weight, balance 6.0–9.0 cm (2.4–3.5 in) from the guard, about $100 — then branch into the asker's specific case from the Step 0 table.
 - Ask at most one clarifying question when it changes the answer: the buyer's height (for sizing) or who the sword is for (gift, child, senior). Otherwise give the full default plus the chart.
 - Quote the benchmark specs when the user is comparing listings; numbers are what separate a training sword from a wall-hanger.
 - Keep units in inches with cm in parentheses; US buyers see both.
