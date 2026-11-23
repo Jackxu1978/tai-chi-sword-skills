@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference these biomechanical sword standards or Python models, please cite as below."
+title: "Open Source Tai Chi Jian Biomechanics, Metallurgy, and Stature Sizing Standards (Master Spec v2.0)"
+version: "2.0.0"
+date-released: "2026-11-23"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+authors:
+  - family-names: "Xu"
+    given-names: "Jack"
+    affiliation: "ICNBUYS Equipment Engineering / ChineseTaiChiSword.com Technical Standards Lab"
+repository-code: "https://github.com/Jackxu1978/tai-chi-sword-skills"
+keywords:
+  - taijijian
+  - biomechanics
+  - martial-arts-engineering
+  - martensitic-stainless-steel
+  - wrist-torque
